@@ -1,16 +1,7 @@
-# flutter_spiritual_retreats
+# Mobile Interface Flutter - Spiritual Retreats
 
-A new Flutter project.
+## Introduction
+The mobile display has five pages with a similar appearance, there are page indicators, place names, place reviews, and descriptions of spiritual tourist attractions. The interesting thing about the appearance of this application is that there are animations on each page element when the page is opened.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Spiritual Retreats App Final UI
+![UI SPIRITUAL RETREATS](https://user-images.githubusercontent.com/38379100/170467392-4c946436-55a2-4f6f-bbfb-9f791e0e4b12.png)
